@@ -1,11 +1,11 @@
 # Blog
 
-[![](https://img.shields.io/github/license/cedoor/blog.svg?style=flat-square)](https://github.com/cedoor/blog/blob/dev/LICENSE)
+[![](https://img.shields.io/github/license/cedoor/blog.svg?style=flat-square)](https://github.com/cedoor/blog/blob/master/LICENSE)
 
 My simple [blog](https://blog.cedoor.org/) with my posts. 
 
 ## License
-* See [LICENSE](https://github.com/cedoor/blog/blob/dev/LICENSE) file.
+* See [LICENSE](https://github.com/cedoor/blog/blob/master/LICENSE) file.
 
 ## Contact
 #### Developer
